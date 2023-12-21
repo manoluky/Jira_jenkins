@@ -15,7 +15,7 @@ pipeline {
     }
     stage('Git') {
       steps {
-        git branch: 'main', url: 'https://github.com/arpkk/FrameworkAutomatizacion.git'
+        git branch: 'main', url: 'https://github.com/RichardChamorro/Jira_jenkins.git'
       }
     }
     stage('Xvfb') {
