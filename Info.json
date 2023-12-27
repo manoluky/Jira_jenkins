@@ -2,7 +2,7 @@
   "fields": {
     "project": {
       "id": "1006"
-      "key": "TEST_PX"
+      "key": "PX"
     },
     "summary": "Prueba de jenkins-Xray",
     "issuetype": {
